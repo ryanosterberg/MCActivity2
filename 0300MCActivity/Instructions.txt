@@ -1,0 +1,9 @@
+Activity #3 - Merge Conflicts
+
+Repeat this multiple times:
+	1. 2 people branch from dev
+	2. Each person should edit the same lines of information within the same file of the project. (delete and add a bunch of stuff)
+	3. 1 person Merge into dev(using the correct process)
+	4. Other person Merge dev into your branch.
+	5. Deal with merge conflicts.
+	6. Merge into dev(using the correct process)
